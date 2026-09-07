@@ -1,0 +1,13 @@
+# 个人运行时数据（不要分发 / 上传）
+qiuzhao.db
+profile.json
+.env
+*.log
+
+# Python / Node 缓存
+__pycache__/
+*.pyc
+node_modules/
+
+# 本机临时目录
+tmp/
